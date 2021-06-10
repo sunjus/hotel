@@ -1,0 +1,179 @@
+{
+    "sections": [
+        {
+            "title": "Popular Hotels",
+            "hotels": [
+                {
+                    "hotelName": "Hotel Lancaster",
+                    "rating": 4,
+                    "city": "Paris",
+                    "blurhash": "U6T69eube;rHy,lNf%a3V5aOkUknu:ZTg1k-",
+                    "thumbnail": "http://comerciodearrecife.com/wp-content/uploads/hotel-prueba-1.jpg",
+                    "guestrating": 4,
+                    "price": 706,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Prince de Galles, a Laxury...",
+                    "rating": 5,
+                    "city": "Toulouz",
+                    "blurhash": "UMD*~9$$azNK9}I@jts-12xEoKaz=wodS3R,",
+                    "thumbnail": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_450,q_auto:eco,w_450/itemimages/42/88/42886_v5.jpeg",
+                    "guestrating": 4,
+                    "price": 1213,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Hotel Hilton",
+                    "rating": 5,
+                    "city": "Marseille",
+                    "blurhash": "U9O[r*?hI_VN*8yNniVx5^NhxTknY]MmX+tx",
+                    "thumbnail": "https://cdn.hotelplanner.com/Common/Images/_HotelPlanner/Home-Page/fade/sld6.jpg",
+                    "guestrating": 4.9,
+                    "price": 1500,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Hotel Hilton",
+                    "rating": 5,
+                    "city": "Paris",
+                    "blurhash": "UDSYr*v7X%kVq0cOi%etTca$nibqr4a8bqk7",
+                    "thumbnail": "https://cdn.hotelplanner.com/Common/Images/_HotelPlanner/Home-Page/fade/sld5.jpg",
+                    "guestrating": 3.9,
+                    "price": 1500,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Monastero Santa Rosa Hotel",
+                    "rating": 2,
+                    "city": "Marini",
+                    "blurhash": "UAN=8k?LS~M:ErJFs%t0MDMWRqo@%BxSV{RX",
+                    "thumbnail": "https://media.cntraveler.com/photos/5f678b917193f8759c50da02/master/w_1600%2Cc_limit/monastero-santa-rosa-hotel-and-spa.jpg",
+                    "guestrating": 3.9,
+                    "price": 1800,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Katikies Sun Rocks",
+                    "rating": 2,
+                    "city": "Santorini",
+                    "blurhash": "UKGsRwwbSis92|Sis8W=6.WrW=js;cjZWra}",
+                    "thumbnail": "https://media.cntraveler.com/photos/5f678a3e987090832029b2ee/master/w_1600%2Cc_limit/katikies-sun-rock-suite.jpg",
+                    "guestrating": 3.9,
+                    "price": 200,
+                    "online": true
+                  }
+            ]
+        },
+        {
+            "title": "New Hotels",
+            "hotels": [
+                {
+                    "hotelName": "Hotel Hilton",
+                    "rating": 5,
+                    "city": "Marseille",
+                    "blurhash": "UH9DE2+hKKsCO-X5r]n*3#GAw3Sx+hr]OnX5",
+                    "thumbnail": "https://cdn.hotelplanner.com/Common/Images/_HotelPlanner/Home-Page/fade/sld6.jpg",
+                    "guestrating": 4.9,
+                    "price": 1500,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Prince de Galles, a Laxury...",
+                    "rating": 5,
+                    "city": "Toulouz",
+                    "blurhash": "UMD*~9$$azNK9}I@jts-12xEoKaz=wodS3R,",
+                    "thumbnail": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_450,q_auto:eco,w_450/itemimages/42/88/42886_v5.jpeg",
+                    "guestrating": 4,
+                    "price": 1213,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Hotel Hilton",
+                    "rating": 5,
+                    "city": "Paris",
+                    "blurhash": "UCO;.s:bO%r_yWXlORbbC?TFvobaVDi_t9nS",
+                    "thumbnail": "https://cdn.hotelplanner.com/Common/Images/_HotelPlanner/Home-Page/fade/sld5.jpg",
+                    "guestrating": 3.9,
+                    "price": 1500,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Monastero Santa Rosa Hotel",
+                    "rating": 2,
+                    "city": "Marini",
+                    "blurhash": "U9O[r*?hI_VN*8yNniVx5^NhxTknY]MmX+tx",
+                    "thumbnail": "https://media.cntraveler.com/photos/5f678b917193f8759c50da02/master/w_1600%2Cc_limit/monastero-santa-rosa-hotel-and-spa.jpg",
+                    "guestrating": 3.9,
+                    "price": 1800,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Katikies Sun Rocks",
+                    "rating": 2,
+                    "city": "Santorini",
+                    "blurhash": "UKGsRwwbSis92|Sis8W=6.WrW=js;cjZWra}",
+                    "thumbnail": "https://media.cntraveler.com/photos/5f678a3e987090832029b2ee/master/w_1600%2Cc_limit/katikies-sun-rock-suite.jpg",
+                    "guestrating": 3.9,
+                    "price": 200,
+                    "online": true
+                  }
+            ]
+        },
+        {
+            "title": "Nearby Hotels",
+            "hotels": [
+                {
+                    "hotelName": "Katikies Sun Rocks",
+                    "rating": 2,
+                    "city": "Santorini",
+                    "blurhash": "UDSoswyZVqm.p%cRjLaKUgZ+k.kWrFZ%a$kX",
+                    "thumbnail": "https://media.cntraveler.com/photos/5f678a3e987090832029b2ee/master/w_1600%2Cc_limit/katikies-sun-rock-suite.jpg",
+                    "guestrating": 3.9,
+                    "price": 200,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Prince de Galles, a Laxury...",
+                    "rating": 5,
+                    "city": "Toulouz",
+                    "blurhash": "UEL:h[|8I-OkYxTsn9r_ExOlo{s:M1eCxvkV",
+                    "thumbnail": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_450,q_auto:eco,w_450/itemimages/42/88/42886_v5.jpeg",
+                    "guestrating": 4,
+                    "price": 1213,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Monastero Santa Rosa Hotel",
+                    "rating": 2,
+                    "city": "Marini",
+                    "blurhash": "UAN=8k?LS~M:ErJFs%t0MDMWRqo@%BxSV{RX",
+                    "thumbnail": "https://media.cntraveler.com/photos/5f678b917193f8759c50da02/master/w_1600%2Cc_limit/monastero-santa-rosa-hotel-and-spa.jpg",
+                    "guestrating": 3.9,
+                    "price": 1800,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Hotel Lancaster",
+                    "rating": 4,
+                    "city": "Paris",
+                    "blurhash": "U6T69eube;rHy,lNf%a3V5aOkUknu:ZTg1k-",
+                    "thumbnail": "http://comerciodearrecife.com/wp-content/uploads/hotel-prueba-1.jpg",
+                    "guestrating": 4,
+                    "price": 706,
+                    "online": true
+                  },
+                  {
+                    "hotelName": "Hotel Hilton",
+                    "rating": 5,
+                    "city": "Paris",
+                    "blurhash": "UCO;.s:bO%r_yWXlORbbC?TFvobaVDi_t9nS",
+                    "thumbnail": "https://cdn.hotelplanner.com/Common/Images/_HotelPlanner/Home-Page/fade/sld5.jpg",
+                    "guestrating": 3.9,
+                    "price": 1500,
+                    "online": true
+                  }
+            ]
+        }
+    ]
+}

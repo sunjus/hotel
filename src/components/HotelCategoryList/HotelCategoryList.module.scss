@@ -1,0 +1,66 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/breakpoints";
+@import "../../assets/scss/animations";
+
+.HotelCategoryListContainer {
+  margin: $space-5 $space-3;
+
+  @include sm {
+    margin: $space-4 $space-0;
+  }
+
+  .Header {
+    display: flex;
+
+    h1 {
+      margin: $space-1;
+      margin-left: $space-5;
+
+      @include lg {
+        margin-left: $space-3;
+      }
+
+      @include sm {
+        margin: $space-0;
+      }
+    }
+
+    @include sm {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .ArrowsContainer {
+      display: flex;
+      align-self: center;
+    }
+  }
+
+  .HotelCategoryList {
+    display: flex;
+    margin: $space-3;
+
+    @include lg {
+      margin: $space-2;
+    }
+
+    @include sm {
+      margin: $space-0;
+    }
+    @include sm {
+      justify-content: center;
+    }
+
+    canvas {
+      transition: animation 0.35s ease-in-out;
+    }
+  }
+}
+
+.AnimatedHotelCategoryList {
+  @extend .HotelCategoryList;
+
+  canvas {
+    animation: scaleAnimation 0.35s ease-in-out;
+  }
+}
