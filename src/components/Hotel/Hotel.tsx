@@ -4,8 +4,6 @@ import Styles from './Hotel.module.scss';
 
 import { BlurhashCanvas } from "react-blurhash";
 
-
-
 interface Props {
     hotelName: string;
     blurhash: string;
