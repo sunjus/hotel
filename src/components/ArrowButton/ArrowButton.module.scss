@@ -6,10 +6,11 @@
   border: none;
   background-color: $color-light;
   cursor: pointer;
-  padding: 0 $space-1;
+  padding: $space-0 $space-1;
+  box-shadow: $shadow-1;
 
   img {
-    height: 1rem;
+    height: 0.8rem;
   }
 }
 

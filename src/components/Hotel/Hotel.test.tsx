@@ -7,7 +7,7 @@ describe("<Hotel />", () => {
   afterAll(cleanup);
 
   const props = {
-    hotelName: "Hilton",
+    hotelName: "Hotel Hilton",
     online: true
   };
 

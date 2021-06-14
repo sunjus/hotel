@@ -23,7 +23,7 @@ export default function Hotel({hotelName, blurhash, online}: Props): ReactElemen
       }
     return (
         <div className={Styles.Hotel} style={{ opacity: online ? "1" : "0.5" }} data-testid="hotel">
-            <p>{hotelName}</p>
+            <h3>{hotelName}</h3>
             <p>
                 {online ? "Online" : "Offline"}
             </p>

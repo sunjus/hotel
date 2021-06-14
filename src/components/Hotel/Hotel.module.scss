@@ -10,8 +10,9 @@
   box-shadow: $shadow-1;
   width: calc(33% - 1.065rem);
 
-  h3 {
-    margin: 0;
+  h3,
+  p {
+    margin: $space-0;
   }
 
   canvas {
