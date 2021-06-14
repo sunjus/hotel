@@ -21,6 +21,7 @@ interface Props {
 export default function HotelCategoryList({title, hotelArray}: Props): ReactElement {
 
     const [current, setCurrent] = useState(0);
+
     const arrayLength = hotelArray.length;
     let maxElements = 3;
     
@@ -33,6 +34,8 @@ export default function HotelCategoryList({title, hotelArray}: Props): ReactElem
     const moveCarouselBackward = () => {
         setCurrent(current === 0 ? arrayLength-1 : current-1)
     };
+
+    
 
     return (
         <div className={Styles.HotelCategoryListContainer}>

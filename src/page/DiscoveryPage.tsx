@@ -7,12 +7,12 @@ import HotelCategoryList from '../components/HotelCategoryList';
 export default function DiscoveryPage(): ReactElement {
     return (
         <div>
-        {data.sections.map((hotelInfo,index) => {
-            const { title, hotels } = hotelInfo;
-            return (
-            <HotelCategoryList key={index} title={title} hotelArray={hotels}/>
-            )
-        })}
+            {data.sections.map((hotelInfo,index) => {
+                const { title, hotels } = hotelInfo;
+                return (
+                <HotelCategoryList key={index} title={title} hotelArray={hotels}/>
+                )
+            })}
         </div>
     )
 }

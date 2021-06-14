@@ -1,6 +1,5 @@
 @import "../../assets/scss/variables";
 @import "../../assets/scss/breakpoints";
-@import "../../assets/scss/animations";
 
 .HotelCategoryListContainer {
   margin: $space-5 0;
@@ -70,17 +69,5 @@
     @include sm {
       margin: $space-0;
     }
-
-    canvas {
-      transition: animation 0.35s ease-in-out;
-    }
-  }
-}
-
-.AnimatedHotelCategoryList {
-  @extend .HotelCategoryList;
-
-  canvas {
-    animation: scaleAnimation 0.35s ease-in-out;
   }
 }

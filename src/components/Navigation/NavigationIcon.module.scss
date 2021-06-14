@@ -1,0 +1,10 @@
+@import "../../assets/scss/variables";
+
+.NavigationIcon {
+  padding: $space-1;
+  width: fit-content;
+  color: $color-blue;
+  font-weight: 900;
+  font-size: $font-lg;
+  font-family: "Times New Roman", serif;
+}
