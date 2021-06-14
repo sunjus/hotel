@@ -11,7 +11,7 @@
                     "thumbnail": "http://comerciodearrecife.com/wp-content/uploads/hotel-prueba-1.jpg",
                     "guestrating": 4,
                     "price": 706,
-                    "online": true
+                    "online": false
                   },
                   {
                     "hotelName": "Prince de Galles, a Laxury...",
@@ -96,7 +96,7 @@
                     "thumbnail": "https://cdn.hotelplanner.com/Common/Images/_HotelPlanner/Home-Page/fade/sld5.jpg",
                     "guestrating": 3.9,
                     "price": 1500,
-                    "online": true
+                    "online": false
                   },
                   {
                     "hotelName": "Monastero Santa Rosa Hotel",

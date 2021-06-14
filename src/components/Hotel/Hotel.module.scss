@@ -2,8 +2,13 @@
 @import "../../assets/scss/breakpoints";
 
 .Hotel {
-  margin: $space-3;
+  margin: $space-0;
   line-height: 1.5rem;
+  background-color: rgb(248, 248, 250);
+  border: 1px solid $color-light;
+  border-radius: 8px;
+  box-shadow: $shadow-1;
+  width: calc(33% - 1.065rem);
 
   h3 {
     margin: 0;
@@ -11,21 +16,20 @@
 
   canvas {
     border-radius: 0.5rem;
-
-    @include xl {
-      width: 200px;
-    }
-
-    @include md {
-      width: 230px;
-    }
+    width: calc(100%);
   }
 
   @include lg {
-    margin: $space-1;
+    margin: $space-0;
+  }
+
+  @include md {
+    margin: $space-0;
+    font-size: $font-xs;
   }
 
   @include sm {
     margin: $space-0;
+    font-size: $font-xxs;
   }
 }

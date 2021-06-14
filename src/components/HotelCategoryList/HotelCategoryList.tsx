@@ -22,7 +22,7 @@ export default function HotelCategoryList({title, hotelArray}: Props): ReactElem
 
     const [current, setCurrent] = useState(0);
     const arrayLength = hotelArray.length;
-    let maxElements = 4;
+    let maxElements = 3;
     
     let displayHotelArray = Array(Math.min(arrayLength, maxElements)).fill(0).map((value, index) => (current + index) % arrayLength);
 
@@ -40,7 +40,7 @@ export default function HotelCategoryList({title, hotelArray}: Props): ReactElem
                 <h1>{title} </h1>
 
                 <div className={Styles.ArrowsContainer}>
-                    <h3>All ({current + 1}{'/'}{arrayLength})</h3>
+                    <h4>All ({current + 1}{'/'}{arrayLength})</h4>
                     <ArrowButton
                         onClick={moveCarouselBackward}
                         imgSrc={arrowLeft}

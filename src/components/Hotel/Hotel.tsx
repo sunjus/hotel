@@ -13,7 +13,7 @@ interface Props {
 export default function Hotel({hotelName, blurhash, online}: Props): ReactElement {
     return (
         <div className={Styles.Hotel}>
-            <BlurhashCanvas hash={blurhash} width={300} height={200} punch={1}/>
+            <BlurhashCanvas hash={blurhash} width={365} height={190} punch={1}/>
             <p>{hotelName}</p>
             <p>{online ? "ONLINE" : "OFFLINE"}</p>
         </div>
