@@ -14,7 +14,7 @@ export default function ArrowButton({
     altText
   }: Props): ReactElement {
     return (
-        <button onClick={onClick} className={Styles.ArrowButton}>
+        <button onClick={onClick} className={Styles.ArrowButton} data-testid="arrowButton">
             <img src={imgSrc} alt={altText} />
         </button>
     )

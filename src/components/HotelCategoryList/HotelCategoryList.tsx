@@ -8,7 +8,7 @@ import Hotel from '../Hotel';
 import ArrowButton from '../ArrowButton';
 
 interface HotelType {
-    blurhash: string;
+    blurhash?: string;
     hotelName: string;
     online: boolean;
 }

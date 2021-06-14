@@ -1,0 +1,26 @@
+ [
+    {
+        "hotelName": "Hotel Lancaster",
+        "online": false
+    },
+    {
+        "hotelName": "Prince de Galles, a Laxury...",
+        "online": true
+    },
+    {
+        "hotelName": "Hotel Hilton",
+        "online": true
+    },
+    {
+        "hotelName": "Hotel Hilton",
+        "online": true
+    },
+    {
+        "hotelName": "Monastero Santa Rosa Hotel",
+        "online": true
+    },
+    {
+        "hotelName": "Katikies Sun Rocks",
+        "online": true
+    }
+]
